@@ -16,12 +16,9 @@
 🚀 Goal: become a Data Analyst who makes data-driven decisions accessible
 📍 Based in Kerala, India
 
-
-
 "Data is the new language — I'm still learning the grammar."
 
 📚 Currently Learning
-
 
 📈 Data Visualization (Matplotlib, Seaborn, Plotly)
 🔍 Exploratory Data Analysis (EDA)
